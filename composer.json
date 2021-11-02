@@ -1,0 +1,19 @@
+{
+    "name": "jarnail/devel",
+    "description": "Beautiful variable dumper.",
+    "type": "project",
+    "license": "GNU GPL",
+    "autoload": {
+        "psr-4": {
+            "Jarnail\\Devel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jarnail Singh",
+            "email": "jarnail@live.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
