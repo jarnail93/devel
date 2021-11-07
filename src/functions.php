@@ -1,9 +1,6 @@
 <?php
 
-namespace Jarnail\Devel;
-
-function dump($input)
-{
+function devel ($input) {
 
   echo 'cli' !== PHP_SAPI ? "<pre>" : '';
 
